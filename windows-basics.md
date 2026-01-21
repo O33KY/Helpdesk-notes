@@ -19,6 +19,19 @@
   2.  Unknown device -> driver missing
   3.  Disabled device -> manual enable
 
+ ## Task Manager
+
+- To monitor system performance and running processes
+  1. Processes - CPU, Memory, Disk, Network usage
+  2. Apps impacting boot time
+  3. Running background services
+  4. Overall system condition
+ 
+     ### Common actions
+     
+     - End unresponsive process
+     - Identify  high CPU/RAM usage
+     - Disable unnecessary apps
 
 ## Common commands
 
