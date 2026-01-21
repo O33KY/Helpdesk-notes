@@ -17,7 +17,7 @@
 - For hardware troubleshooting & driver management
   1.  Yellow exclamation  mark ->  missing faulty driver
   2.  Unknown device -> driver missing
-  3.  Disabled device -> Manual enable
+  3.  Disabled device -> manual enable
 
 
 ## Common commands
