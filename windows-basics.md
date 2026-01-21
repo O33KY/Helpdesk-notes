@@ -5,7 +5,9 @@
 - Local users vs domain users
 - Administrator vs standard user
 - **RUN** --> lusrmgr.msc for managing the groups & local users
-- local file permissions
+- Local file permissions
+
+## Event Viewer & logs
 
 ## Common commands
 
