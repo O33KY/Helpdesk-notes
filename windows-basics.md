@@ -15,17 +15,17 @@
 ## Device Manager
 
 - For hardware troubleshooting & driver management
-  1.  Yellow exclamation  mark ->  missing faulty driver
-  2.  Unknown device -> driver missing
-  3.  Disabled device -> manual enable
+- Yellow exclamation  mark ->  missing faulty driver
+-  Unknown device -> driver missing
+-    Disabled device -> manual enable
 
  ## Task Manager
 
 - To monitor system performance and running processes
-  1. Processes - CPU, Memory, Disk, Network usage
-  2. Apps impacting boot time
-  3. Running background services
-  4. Overall system condition
+- Processes - CPU, Memory, Disk, Network usage
+- Apps impacting boot time
+- Running background services
+- Overall system condition
  
      ### Common actions
      
@@ -39,7 +39,7 @@
  
      -  **RUN** -> `services.msc`
      - Programs running in the background
-     - Crucial for system and network running properly (no Win Update - no Update, no DHCP Client - no IP, no Print Spooler - no printing etc.)
+     - Crucial for system and network running properly (no Win Update - no Update, no DHCP((assigns IP address)) Client - no IP, no Print Spooler - no printing etc.)
 
      **Don't disable services w/o understanding what it does**
 
