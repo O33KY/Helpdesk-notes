@@ -53,10 +53,9 @@
          - HKU -> all users
     - Keys & values
       
-    HKLM  HIVE
-     └── Software  KEY
-         └── Microsoft VALUE
-              └── Windows VALUE
+    HKLM HIVE  ```Software KEY```
+
+     Microsoft VALUE --> Windows VALUE
     
 
   - Used for apps troubleshooting, user settings reset, malware checks
