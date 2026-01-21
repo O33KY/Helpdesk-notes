@@ -46,17 +46,21 @@
   ## Windows Registry
 
   - Database for configuration settings for OS and installed apps
+    
           HIVES: 
-         - HKLM (HKEY_LOCAL_MACHINE) -> system settings
-         - HKCU (HKEY_CURENT_USER) -> current user settings
-         - HKCR (HKEY_CLASSES_ROOT) -> file associations (fundamental, highest-level class or element from which others inherit or are defined, providing essential structure or settings)
-         - HKU -> all users
+    - HKLM (HKEY_LOCAL_MACHINE) -> system settings
+    - HKCU (HKEY_CURENT_USER) -> current user settings
+    - HKCR (HKEY_CLASSES_ROOT) -> file associations (fundamental, highest-level class or element from which others inherit or are defined, providing essential structure or settings)
+    - HKU -> all users
+   
+      
     - Keys & values
       
-    HKLM HIVE  ```Software KEY```
-
-     Microsoft VALUE --> Windows VALUE
-    
+ ~~~
+HKLM Hive
+ └── Software  Key
+     └── Microsoft Key
+~~~
 
   - Used for apps troubleshooting, user settings reset, malware checks
   
