@@ -2,7 +2,7 @@
 
 ## User accounts
 
-- Local users vs domain users - local exists only on one machine, domain users managed by **AD** (ACTIVE DIRECTORY)
+- Local users vs domain users - local exists only on one machine, domain users managed by **Active Directory** (central management of users, computers & permissions)
 - Administrator vs standard user 
 - **RUN** -->  `lusrmgr.msc`  for managing the groups & local users
 - Local file permissions
