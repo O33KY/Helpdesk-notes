@@ -32,6 +32,8 @@
      - End unresponsive process
      - Identify  high CPU/RAM usage
      - Disable unnecessary apps
+    
+     **Always verify process before killing it**, **Startup tab when slow boot**
 
 ## Common commands
 
